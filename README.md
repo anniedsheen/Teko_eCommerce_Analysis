@@ -10,14 +10,14 @@ The business operates on a direct-to-consumer model through its proprietary e-co
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Sales Trends and Growth Analysis:** Overall sales performance, monthly and yearly growth rates, and key inflection points
+- **Loyalty Program Performance:** Evaluation of the new loyalty program's impact on repeat purchases and revenue contribution
+- **Financial Performance Metrics:** Analysis of refund rates, AoV, and their impact on profitability across product categories
+- **Strategic Recommendations:** Data-driven guidance for program optimization, operational improvements, and growth acceleration strategies
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
-Targed SQL queries regarding various business questions can be found here [link].
+Targeted SQL queries regarding various business questions can be found here [link].
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
