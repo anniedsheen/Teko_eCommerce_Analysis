@@ -46,7 +46,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 # Insights Deep Dive
-### Category 1:
+### Sales Trends and Growth Analysis
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -59,7 +59,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 1]
 
 
-### Category 2:
+### Loyalty Program Performance
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -72,7 +72,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Financial Performance Metrics
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -85,7 +85,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 3]
 
 
-### Category 4:
+### Strategic Recommendation
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -99,7 +99,7 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 
-# Recommendations:
+# Recommendations
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
@@ -115,13 +115,13 @@ Based on the insights and findings above, we would recommend the [stakeholder te
   
 
 
-# Assumptions and Caveats:
+# Assumptions and Caveats
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+* Orders with $0 transaction prices is missing data and not customers who received products for free
   
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
+* Fluctuations in pricing within individual products were purchases made with coupons or special discounts and not changes in retail pricing
   
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* Mismatches between currency and country per customer was due to customers purchasing items in a different currency than where they are located
 
