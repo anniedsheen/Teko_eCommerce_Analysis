@@ -10,29 +10,15 @@ The business operates on a direct-to-consumer model through its proprietary e-co
 
 Insights and recommendations are provided on the following key areas:
 
-- **Sales Trends and Growth Analysis:** Overall sales performance, monthly and yearly growth rates, and key inflection points
-- **Loyalty Program Performance:** Evaluation of the new loyalty program's impact on repeat purchases and revenue contribution
+- **Revenue Trends and Growth Analysis:** Overall sales performance, monthly and yearly growth rates, and key inflection points
 - **Financial Performance Metrics:** Analysis of refund rates, AoV, and their impact on profitability across product categories
-- **Strategic Recommendations:** Data-driven guidance for program optimization, operational improvements, and growth acceleration strategies
+- **Loyalty Program Performance:** Evaluation of the new loyalty program's impact on repeat purchases and revenue contribution
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
 Targeted SQL queries regarding various business questions can be found here [link].
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
-
-
-# Data Structure & Initial Checks
-
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
-
-[Entity Relationship Diagram here]
-
 
 
 # Executive Summary
@@ -44,32 +30,22 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
-
 # Insights Deep Dive
-### Sales Trends and Growth Analysis
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+### Revenue Trends and Growth Analysis
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **2020 was the best performing year over the 2019-2022 time period**, generating over $10M in revenue, with the top selling products being the Gaming Monitor, Apple Airpods, and Macbook Air collectively driving over 80% of sales that year.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **The largest annual growth rate in revenue was between 2019-2020 (163%)**, with the Macbook Air and Thinkpad laptop experiencing the highest growth rate among all products at 384% growth and 222% growth respectively.
+
+* Looking at monthly trends, **revenue peaked in December 2020**, bringing in just over $1.2M.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **The largest monthly growth rate was from February 2020 to March 2020**, with all products products experiencing an increase in revenue.
 
-[Visualization specific to category 1]
+* **2021-2022 saw the sharpest drop in revenue** with a 46% decline to an all-time low in October 2022 which only brought in $178K in sales.
 
+* **Revenue consistently declined onth-over-month ever since December 2020**, except for the seasonal upticks during the holidays in November in December.
 
-### Loyalty Program Performance
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 2]
+![image](https://github.com/user-attachments/assets/6431eff3-e158-4e89-866b-4a19c676ec43)
 
 
 ### Financial Performance Metrics
@@ -85,17 +61,17 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 [Visualization specific to category 3]
 
 
-### Strategic Recommendation
+### Loyalty Program Performance
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **AOV and total sales was higher for non-loyalty customers that loyalty customers**, at 13% higher AOV and comprising 61% of total sales. 
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Revenue generated by loyalty customers has seen a steady decline for the past 12 months**, despite AOV slowly trending upward.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **The number of active loyalty customers is declining**, with more non-loyalty customers placing than loyalty customers in the past 4 months.  
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **There is no significant difference in repeat purchasing behavior between non-loyalty and loayalty customers**, with 13% and 15% in each group respectively placing more than one order.
 
-[Visualization specific to category 4]
+[Visualization specific to category 2]
 
 
 
@@ -113,6 +89,14 @@ Based on the insights and findings above, we would recommend the [stakeholder te
   
 * Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
   
+
+# Data Structure & Initial Checks
+
+The company's main database structure consists of the following four tables:
+- **customers:** Details about the creation fo the customer's account
+- **geo_lookup:** Reference of countries and their respective region
+- **order_status:** Dates for the various statuses of each order
+- **orders:** Product and price information for each order
 
 
 # Assumptions and Caveats
