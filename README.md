@@ -41,10 +41,6 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Insights Deep Dive
 ### Revenue Trends and Growth Analysis
 Overall sales performance, monthly and yearly growth rates, and key inflection points.
-
-![image](https://github.com/user-attachments/assets/c49290ea-bb38-48a0-87ca-9b4489e68199)
-
-![image](https://github.com/user-attachments/assets/5c8ac515-178a-4b84-86b1-ec03fec8c788)
   
 * **2020 was the best performing year over the 2019-2022 time period**, generating over $10M in revenue. The top selling products - Gaming Monitor, Apple Airpods, and Macbook Air - collectively drove over 80% of sales that year.
   
@@ -57,6 +53,11 @@ Overall sales performance, monthly and yearly growth rates, and key inflection p
 * **Revenue declined sharply in 2021-2022 with a 46% drop**, reaching an all-time low of $178K in October 2022, suggesting market normalization post-pandemic.
 
 * **Revenue consistently declined month-over-month after December 2020**, with the only exceoptions being seasonal holiday upticks in Novmeber and December of subsequent years.
+
+  
+![image](https://github.com/user-attachments/assets/ef8e2c5b-a6f7-4a64-8a0e-92f4aec0e14f)
+
+![image](https://github.com/user-attachments/assets/95cb0d89-7bc9-458c-9ed3-98ad69624ebc)
 
 
 ### Financial Performance Metrics
