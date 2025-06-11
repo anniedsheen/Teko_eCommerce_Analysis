@@ -1,12 +1,20 @@
 # Global eCommerce Sales Analysis
 ![Teko banner](https://github.com/user-attachments/assets/b9f654a0-9afe-4bce-b032-97aaec142bf2)
 
-## The goal of this analysis is to evaluate sales performance through the COVID-19 period (2019-2022), delivering insights on key revenue drivers and actionable recommendations for Product, Operations, Sales, and Marketing leadership teams.
+## The goal of this analysis is to evaluate sales performance through the COVID-19 period (2019-2022), delivering insights on key revenue drivers and actionable recommendations for Operations, Sales, and Marketing leadership teams.
 
 
 # Project Background
+**Company Bio**
+
 Teko Electronics has been a prominent player in the consumer electronics retail space since its founding in 2012. As a specialized e-commerce retailer based in the United States with a growing international consumer base, the business focuses exclusively on high-demand technology products, positioning itself as the go-to destination for premium electronics including laptops, mobile accessories, and gaming peripherals.
-The business operates on a direct-to-consumer model through its proprietary e-commerce platform, with customer acquisition driven through diversified digital marketing channels. Unlike broad-spectrum electronics retailers, Teko Electronics has carved out a niche by curating a focused product portfolio of premium technology items that appeal to professionals, gamers, and technology enthusiasts.
+The business operates on a direct-to-consumer model through its proprietary e-commerce platform, with customer acquisition driven through diversified marketing channels. Unlike other large electronics retailers, Teko Electronics has carved out a niche by curating a focused product portfolio of premium technology items that appeal to professionals, gamers, and technology enthusiasts.
+
+**Stakeholder Request**
+
+Leadership requested this analysis in Q1 2023 to understand how the COVID-19 pandemic impacted sales performance from 2019-2022. The period represents a critical inflection point for technology retailers, with dramatic shifts in consumer behavior, supply chain disruptions, and evolving work-from-home requirements.
+
+Understanding these performance patterns will inform strategic planning for the year, including loyalty program investment, marketing allocation, and potential product line expansion decisions. The insights from this analysis will be particularly valuable as we navigate the post-pandemic market normalization and prepare for potential future disruptions.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -32,23 +40,27 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 # Insights Deep Dive
 ### Revenue Trends and Growth Analysis
+Overall sales performance, monthly and yearly growth rates, and key inflection points.
+
+![image](https://github.com/user-attachments/assets/c49290ea-bb38-48a0-87ca-9b4489e68199)
+
+![image](https://github.com/user-attachments/assets/5c8ac515-178a-4b84-86b1-ec03fec8c788)
   
-* **2020 was the best performing year over the 2019-2022 time period**, generating over $10M in revenue, with the top selling products being the Gaming Monitor, Apple Airpods, and Macbook Air collectively driving over 80% of sales that year.
+* **2020 was the best performing year over the 2019-2022 time period**, generating over $10M in revenue. The top selling products - Gaming Monitor, Apple Airpods, and Macbook Air - collectively drove over 80% of sales that year.
   
-* **The largest annual growth rate in revenue was between 2019-2020 (163%)**, with the Macbook Air and Thinkpad laptop experiencing the highest growth rate among all products at 384% growth and 222% growth respectively.
+* **Annual revenue growth peaked between 2019-2020 at 163%**, likely driven by pandemic-induced demand for remote work technology. Macbook Air and ThinkPad laptops experienced the highest individual product growth rates at 384% and 222% respectively.
 
-* Looking at monthly trends, **revenue peaked in December 2020**, bringing in just over $1.2M.
+* **Revenue peaked in December 2020 at just over $1.2M**, representing our highest single-month performance during the analysis period.
   
-* **The largest monthly growth rate was from February 2020 to March 2020**, with all products products experiencing an increase in revenue.
+* **The largest monthly growth spike was from February 2020 to March 2020**, coinciding with inital COVID lockdowns, with all products experiencing revenue increases during this period.
 
-* **2021-2022 saw the sharpest drop in revenue** with a 46% decline to an all-time low in October 2022 which only brought in $178K in sales.
+* **Revenue declined sharply in 2021-2022 with a 46% drop**, reaching an all-time low of $178K in October 2022, suggesting market normalization post-pandemic.
 
-* **Revenue consistently declined onth-over-month ever since December 2020**, except for the seasonal upticks during the holidays in November in December.
-
-![image](https://github.com/user-attachments/assets/6431eff3-e158-4e89-866b-4a19c676ec43)
+* **Revenue consistently declined month-over-month after December 2020**, with the only exceoptions being seasonal holiday upticks in Novmeber and December of subsequent years.
 
 
 ### Financial Performance Metrics
+Analysis of refund rates, AoV, and their impact on profitability across product categories.
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -62,14 +74,15 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 
 ### Loyalty Program Performance
+Evaluation of the new loyalty program's impact on repeat purchases and revenue contribution.
 
-* **AOV and total sales was higher for non-loyalty customers that loyalty customers**, at 13% higher AOV and comprising 61% of total sales. 
+* **Non-loyalty customers outperformed loyalty customers**, with 13% higher average order value and comprising 61% of total sales during the analysis period, suggesting the program may not be effectively incentivizing higher spending.
   
-* **Revenue generated by loyalty customers has seen a steady decline for the past 12 months**, despite AOV slowly trending upward.
+* **Revenue from loyalty customers has steadily declined over the past 12 months**, despite a modest upward trend in their average order value, indicating fewer loyalty customers are making purchases overall.
   
-* **The number of active loyalty customers is declining**, with more non-loyalty customers placing than loyalty customers in the past 4 months.  
+* **Active loyalty customer participation is decreasing**, with non-loyalty customers placing more orders than loyalty customers in the past 4 months, raising questions about program engagement and value proposition.
   
-* **There is no significant difference in repeat purchasing behavior between non-loyalty and loayalty customers**, with 13% and 15% in each group respectively placing more than one order.
+* **The loyalty program shows minimal impact on repeat purchase behavior**, with only a 2 percentage point difference between loyalty customers (15%) and non-loyalty customers (13%) placing more than one order.
 
 [Visualization specific to category 2]
 
