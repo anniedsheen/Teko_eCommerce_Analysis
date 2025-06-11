@@ -57,7 +57,7 @@ Overall sales performance, monthly and yearly growth rates, and key inflection p
   
 ![image](https://github.com/user-attachments/assets/ef8e2c5b-a6f7-4a64-8a0e-92f4aec0e14f)
 
-![image](https://github.com/user-attachments/assets/95cb0d89-7bc9-458c-9ed3-98ad69624ebc)
+![image](https://github.com/user-attachments/assets/94bd2311-2f27-451c-b042-1c9e513c7c55)
 
 
 ### Financial Performance Metrics
