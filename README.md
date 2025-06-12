@@ -85,9 +85,9 @@ Evaluation of the new loyalty program's impact on repeat purchases and revenue c
   
 * **The loyalty program shows minimal impact on repeat purchase behavior**, insert data....
 
-![image](https://github.com/user-attachments/assets/c8f48c4e-44a5-48a3-a60a-b1bfe257780b)
+![image](https://github.com/user-attachments/assets/71941e0b-3fb0-45a9-a5e5-bfb18a7fbeda)
 
-![image](https://github.com/user-attachments/assets/d8b20fab-44d5-4491-b0b0-55527e880aea)
+![image](https://github.com/user-attachments/assets/119d6ce5-49bf-4790-bae8-a09650abe328)
 
 
 
