@@ -87,7 +87,7 @@ Evaluation of the new loyalty program's impact on repeat purchases and revenue c
 
 ![image](https://github.com/user-attachments/assets/71941e0b-3fb0-45a9-a5e5-bfb18a7fbeda)
 
-![image](https://github.com/user-attachments/assets/3cb6cd5c-46db-4488-8cf9-c190b0b9cfdd)
+![image](https://github.com/user-attachments/assets/48bcaece-6276-4d07-9e0e-939467519d99)
 
 ![image](https://github.com/user-attachments/assets/52456356-df22-4af7-865d-eac66bf8d18d)
 
