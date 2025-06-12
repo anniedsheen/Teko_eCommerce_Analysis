@@ -83,11 +83,13 @@ Evaluation of the new loyalty program's impact on repeat purchases and revenue c
   
 * **Active loyalty customer participation is decreasing**, with non-loyalty customers placing more orders than loyalty customers in the past 4 months, raising questions about program engagement and value proposition.
   
-* **The loyalty program shows minimal impact on repeat purchase behavior**, insert data....
+* **The loyalty program is performing worse at driving repeat purchases**, with only 0.5% of loyalty customers making more than one purchase compared to 11% of non-loyalty customers
 
 ![image](https://github.com/user-attachments/assets/71941e0b-3fb0-45a9-a5e5-bfb18a7fbeda)
 
-![image](https://github.com/user-attachments/assets/119d6ce5-49bf-4790-bae8-a09650abe328)
+![image](https://github.com/user-attachments/assets/3cb6cd5c-46db-4488-8cf9-c190b0b9cfdd)
+
+![image](https://github.com/user-attachments/assets/52456356-df22-4af7-865d-eac66bf8d18d)
 
 
 
