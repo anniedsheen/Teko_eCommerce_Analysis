@@ -26,8 +26,6 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 Targeted SQL queries regarding various business questions can be found here [link].
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
 
 # Executive Summary
 
@@ -41,7 +39,11 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 # Insights Deep Dive
 ### Revenue Trends and Growth Analysis
 Overall sales performance, monthly and yearly growth rates, and key inflection points.
-  
+
+![image](https://github.com/user-attachments/assets/502148b3-b14a-402f-b515-ac7bc34fd722)
+
+![image](https://github.com/user-attachments/assets/4b1cbd2c-615e-4b09-a61f-ce502ecc7d3f)
+
 * **2020 was the best performing year over the 2019-2022 time period**, generating over $10M in revenue. The top selling products - Gaming Monitor, Apple Airpods, and Macbook Air - collectively drove over 80% of sales that year.
   
 * **Annual revenue growth peaked between 2019-2020 at 163%**, likely driven by pandemic-induced demand for remote work technology. Macbook Air and ThinkPad laptops experienced the highest individual product growth rates at 384% and 222% respectively.
@@ -53,11 +55,6 @@ Overall sales performance, monthly and yearly growth rates, and key inflection p
 * **Revenue declined sharply in 2021-2022 with a 46% drop**, reaching an all-time low of $178K in October 2022, suggesting market normalization post-pandemic.
 
 * **Revenue consistently declined month-over-month after December 2020**, with the only exceoptions being seasonal holiday upticks in Novmeber and December of subsequent years.
-
-  
-![image](https://github.com/user-attachments/assets/ef8e2c5b-a6f7-4a64-8a0e-92f4aec0e14f)
-
-![image](https://github.com/user-attachments/assets/94bd2311-2f27-451c-b042-1c9e513c7c55)
 
 
 ### Financial Performance Metrics
@@ -77,6 +74,11 @@ Analysis of refund rates, AoV, and their impact on profitability across product 
 ### Loyalty Program Performance
 Evaluation of the new loyalty program's impact on repeat purchases and revenue contribution.
 
+![image](https://github.com/user-attachments/assets/045e0bc2-bf14-4886-826c-2211e274e841)
+
+![image](https://github.com/user-attachments/assets/79526304-ce91-44d1-a9ca-9618c0e7ca2e)
+
+
 * **Non-loyalty customers outperformed loyalty customers**, with 13% higher average order value and comprising 61% of total sales during the analysis period, suggesting the program may not be effectively incentivizing higher spending.
   
 * **Revenue from loyalty customers has steadily declined over the past 12 months**, despite a modest upward trend in their average order value, indicating fewer loyalty customers are making purchases overall.
@@ -84,12 +86,6 @@ Evaluation of the new loyalty program's impact on repeat purchases and revenue c
 * **Active loyalty customer participation is decreasing**, with non-loyalty customers placing more orders than loyalty customers in the past 4 months, raising questions about program engagement and value proposition.
   
 * **The loyalty program is performing worse at driving repeat purchases**, with only 0.5% of loyalty customers making more than one purchase compared to 11% of non-loyalty customers
-
-![image](https://github.com/user-attachments/assets/71941e0b-3fb0-45a9-a5e5-bfb18a7fbeda)
-
-![image](https://github.com/user-attachments/assets/48bcaece-6276-4d07-9e0e-939467519d99)
-
-![image](https://github.com/user-attachments/assets/52456356-df22-4af7-865d-eac66bf8d18d)
 
 
 
@@ -126,4 +122,6 @@ Throughout the analysis, multiple assumptions were made to manage challenges wit
 * Fluctuations in pricing within individual products were purchases made with coupons or special discounts and not changes in retail pricing
   
 * Mismatches between currency and country per customer was due to customers purchasing items in a different currency than where they are located
+
+* When calculating repeat purchases, customer loyalty status was determined based on their loaylty status for their most recent purchase
 
