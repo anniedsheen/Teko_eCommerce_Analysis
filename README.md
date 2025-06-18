@@ -91,7 +91,8 @@ Evaluation of the new loyalty program's impact on repeat purchases and revenue c
 ### Regional Performance Segmentation
 Sales performance across regions, focusing on differences in revenue, AOV, and customer behavior
 
-![image](https://github.com/user-attachments/assets/c223d841-e6e8-4480-bff1-7969f692b341)
+![image](https://github.com/user-attachments/assets/d2e96a52-4754-4f9d-ba41-0e5d4637d9de)
+
 
 
 * **All regions experienced similar revenue patterns**, peaking during 2020-2021 COVID period before declining, indicating global market forces drove performance more than regional factors
