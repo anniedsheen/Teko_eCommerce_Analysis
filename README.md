@@ -12,19 +12,16 @@ The business operates on a direct-to-consumer model through its proprietary e-co
 
 **Stakeholder Request**
 
-Leadership requested this analysis in Q1 2023 to understand how the COVID-19 pandemic impacted sales performance from 2019-2022. The period represents a critical inflection point for technology retailers, with dramatic shifts in consumer behavior, supply chain disruptions, and evolving work-from-home requirements.
+Leadership requested this analysis in Q2 2023 to understand how the COVID-19 pandemic impacted sales performance from 2019-2022. The period represents a critical inflection point for technology retailers, with dramatic shifts in consumer behavior, supply chain disruptions, and evolving work-from-home requirements.
 
-Understanding these performance patterns will inform strategic planning for the year, including loyalty program investment, marketing allocation, and potential product line expansion decisions. The insights from this analysis will be particularly valuable as we navigate the post-pandemic market normalization and prepare for potential future disruptions.
+Understanding these performance patterns will inform strategic planning for 2024 priorities, including loyalty program investment, marketing allocation, and potential product line expansion decisions. The insights from this analysis will be particularly valuable as we navigate the post-pandemic market normalization and prepare for potential future disruptions.
 
 Insights and recommendations are provided on the following key areas:
 
 - **Revenue Trends and Growth Analysis:** Overall sales performance, monthly and yearly growth rates, and key inflection points
-- **Financial Performance Metrics:** Analysis of refund rates, AoV, and their impact on profitability across product categories
+- **Refund Impact Analysis:** Refund behavior across product categories, including refund rates, associated costs, and their effects on profitability
 - **Loyalty Program Performance:** Evaluation of the new loyalty program's impact on repeat purchases and revenue contribution
-
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targeted SQL queries regarding various business questions can be found here [link].
+- **Regional Performance Segementation** Sales performance across regions, focusing on differences in revenue, AOV, and customer behavior
 
 
 # Executive Summary
@@ -40,55 +37,72 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 ### Revenue Trends and Growth Analysis
 Overall sales performance, monthly and yearly growth rates, and key inflection points.
 
-![image](https://github.com/user-attachments/assets/502148b3-b14a-402f-b515-ac7bc34fd722)
+![image](https://github.com/user-attachments/assets/7e43c05e-5935-4fc9-ae87-dea0cd0fc37f)
 
-![image](https://github.com/user-attachments/assets/4b1cbd2c-615e-4b09-a61f-ce502ecc7d3f)
+
+![image](https://github.com/user-attachments/assets/a15e1f57-479f-460d-bd97-bab80f1d8eb1)
+
 
 * **2020 was the best performing year over the 2019-2022 time period**, generating over $10M in revenue. The top selling products - Gaming Monitor, Apple Airpods, and Macbook Air - collectively drove over 80% of sales that year.
-  
-* **Annual revenue growth peaked between 2019-2020 at 163%**, likely driven by pandemic-induced demand for remote work technology. Macbook Air and ThinkPad laptops experienced the highest individual product growth rates at 384% and 222% respectively.
 
 * **Revenue peaked in December 2020 at just over $1.2M**, representing our highest single-month performance during the analysis period.
   
+* **Annual revenue growth peaked between 2019-2020 at 163%**, likely driven by pandemic-induced demand for remote work technology. Macbook Air and ThinkPad laptops experienced the highest individual product growth rates at 384% and 222% respectively.
+  
 * **The largest monthly growth spike was from February 2020 to March 2020**, coinciding with inital COVID lockdowns, with all products experiencing revenue increases during this period.
 
-* **Revenue declined sharply in 2021-2022 with a 46% drop**, reaching an all-time low of $178K in October 2022, suggesting market normalization post-pandemic.
-
-* **Revenue consistently declined month-over-month after December 2020**, with the only exceoptions being seasonal holiday upticks in Novmeber and December of subsequent years.
+* **Revenue declined sharply from 2021-2022 with a 46% drop**, reaching an all-time low of $178K in October 2022, with the only exceoptions being slight seasonal holiday upticks in November and December, suggesting market normalization post-pandemic.
 
 
-### Financial Performance Metrics
-Analysis of refund rates, AoV, and their impact on profitability across product categories.
+### Refund Impact Analysis
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+Refund behavior across product categories, including refund rates, associated costs, and their effects on profitability
+
+[Visualization specific to category 2]
+
+* **Refund rates spiked in mid-2022 and have remained elevated**, indicating potential quality or customer satisfaction issues.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Laptops show the highest refund rates**, with both Apple MacBooks and ThinkPads experiencing significantly more returns than other product categories.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Gaming monitors and MacBook Air drive the highest refund costs** due to their premium price points.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 3]
+* **Refund costs are projected to match 2022 levels** based on current trends through the first half of 2023.
 
 
 ### Loyalty Program Performance
 Evaluation of the new loyalty program's impact on repeat purchases and revenue contribution.
 
-![image](https://github.com/user-attachments/assets/045e0bc2-bf14-4886-826c-2211e274e841)
+![image](https://github.com/user-attachments/assets/35f6aecc-68eb-4f21-8d51-34db088dd931)
 
-![image](https://github.com/user-attachments/assets/79526304-ce91-44d1-a9ca-9618c0e7ca2e)
+![image](https://github.com/user-attachments/assets/74a788e0-aa73-4f54-9505-30be6a191866)
 
+
+* **Loyalty customer revenue continues to decline from its peak in Dec 2021**, generating less revenue than non-loyalty customers by the end of 2022.
 
 * **Non-loyalty customers outperformed loyalty customers**, with 13% higher average order value and comprising 61% of total sales during the analysis period, suggesting the program may not be effectively incentivizing higher spending.
   
-* **Revenue from loyalty customers has steadily declined over the past 12 months**, despite a modest upward trend in their average order value, indicating fewer loyalty customers are making purchases overall.
+* **Loyalty revenue declined 83% while AOV only declined 17%** following Q4 2021, indicating an issue with loyalty customer retention.
   
 * **Active loyalty customer participation is decreasing**, with non-loyalty customers placing more orders than loyalty customers in the past 4 months, raising questions about program engagement and value proposition.
   
 * **The loyalty program is performing worse at driving repeat purchases**, with only 0.5% of loyalty customers making more than one purchase compared to 11% of non-loyalty customers
 
 
+### Regional Performance Segmentation
+Sales performance across regions, focusing on differences in revenue, AOV, and customer behavior
 
+![image](https://github.com/user-attachments/assets/c223d841-e6e8-4480-bff1-7969f692b341)
+
+
+* **All regions experienced similar revenue patterns**, peaking during 2020-2021 COVID period before declining, indicating global market forces drove performance more than regional factors
+
+* **North America dominated revenue generation** with over $14M in sales and making up 50.8% of market share, representing our strongets market position and customer base
+
+* **APAC customers show the highest spending per order at $280 AOV** but generated the second-lowest total revenue, suggesting limited market reach despite premium customer behavior
+
+* **LATAM underperformed across both metrics** with the lowest revenue and AOV, indicating potential market entry challenges or pricing misalignment
+
+  
 # Recommendations
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
