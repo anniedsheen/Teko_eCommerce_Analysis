@@ -1,16 +1,16 @@
 # Global eCommerce Sales Analysis
 ![Teko banner](https://github.com/user-attachments/assets/b9f654a0-9afe-4bce-b032-97aaec142bf2)
 
-## The goal of this analysis is to evaluate sales performance through the COVID-19 period (2019-2022), delivering insights on key revenue drivers and actionable recommendations for Operations, Sales, and Marketing leadership teams.
+> ### The goal of this analysis is to evaluate sales performance through the COVID-19 period (2019-2022), delivering insights on key revenue drivers and actionable recommendations for Operations, Sales, and Marketing leadership teams.
 
 
 # Project Background
-**Company Bio**
+### **Company Bio**
 
 Teko Electronics has been a prominent player in the consumer electronics retail space since its founding in 2012. As a specialized e-commerce retailer based in the United States with a growing international consumer base, the business focuses exclusively on high-demand technology products, positioning itself as the go-to destination for premium electronics including laptops, mobile accessories, and gaming peripherals.
 The business operates on a direct-to-consumer model through its proprietary e-commerce platform, with customer acquisition driven through diversified marketing channels. Unlike other large electronics retailers, Teko Electronics has carved out a niche by curating a focused product portfolio of premium technology items that appeal to professionals, gamers, and technology enthusiasts.
 
-**Stakeholder Request**
+### **Stakeholder Request**
 
 Leadership requested this analysis in Q2 2023 to understand how the COVID-19 pandemic impacted sales performance from 2019-2022. The period represents a critical inflection point for technology retailers, with dramatic shifts in consumer behavior, supply chain disruptions, and evolving work-from-home requirements.
 
@@ -27,6 +27,8 @@ Insights and recommendations are provided on the following key areas:
 
 ### Overview of Findings
 
+![image](https://github.com/user-attachments/assets/7e43c05e-5935-4fc9-ae87-dea0cd0fc37f)
+
 Teko Electronics experienced explosive pandemic-driven growth peaking at $10M in 2020, but revenue has since declined 46% as market conditions normalized, highlighting the need for sustainable growth strategies beyond remote work trends. The loyalty program is counterproductive, with non-loyalty customers outperforming across all metrics, while APAC represents significant untapped growth potential with premium customer behavior. Quality challenges are eroding over $1M annually and require immediate attention to protect profitability.
 
 ### Key themes for leadership
@@ -41,8 +43,6 @@ Teko Electronics experienced explosive pandemic-driven growth peaking at $10M in
 ### Revenue Trends and Growth Analysis
 Overall sales performance, monthly and yearly growth rates, and key inflection points.
 
-![image](https://github.com/user-attachments/assets/7e43c05e-5935-4fc9-ae87-dea0cd0fc37f)
-
 ![image](https://github.com/user-attachments/assets/a15e1f57-479f-460d-bd97-bab80f1d8eb1)
 
 
@@ -54,7 +54,7 @@ Overall sales performance, monthly and yearly growth rates, and key inflection p
   
 * **The largest monthly growth spike was from February 2020 to March 2020**, coinciding with inital COVID lockdowns, with all products experiencing revenue increases during this period.
 
-* **Revenue declined sharply from 2021-2022 with a 46% drop**, reaching an all-time low of $178K in October 2022, with the only exceoptions being slight seasonal holiday upticks in November and December, suggesting market normalization post-pandemic.
+* **Revenue declined sharply from 2021-2022 with a 46% drop**, reaching an all-time low of $178K in October 2022, with the only exceptions being slight seasonal holiday upticks in November and December, suggesting market normalization post-pandemic.
 
 
 ### Loyalty Program Performance
@@ -97,7 +97,7 @@ Sales performance across regions, focusing on differences in revenue, AOV, and c
 Refund behavior across product categories, including refund rates, associated costs, and their effects on profitability
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c6f7ddb7-4b98-4119-ba60-abcbbab59327" alt="Refund Table">
+  <img src="https://github.com/user-attachments/assets/06fe5c94-0e35-4538-8cca-8758754ead6d" alt="Refund Table">
 </div>
 
 * **Refund rates spiked in H1 2022 and have remained elevated**, indicating potential quality or customer satisfaction issues
