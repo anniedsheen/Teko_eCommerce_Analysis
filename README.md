@@ -34,7 +34,7 @@ Teko Electronics experienced explosive pandemic-driven growth peaking at $10M in
 
 **2. Resource Reallocation:** Loyalty program is underperforming, but APAC shows premium customer behavior worth scaling
 
-**3. Operational Efficiency:** High refund costs for the Macbook Air and Gaming Monitor threaten margins and require investigation
+**3. Quality Challenges:** High refund costs for the Macbook Air and Gaming Monitor threaten margins and require investigation
 
 
 # Insights Deep Dive
