@@ -14,7 +14,7 @@ The business operates on a direct-to-consumer model through its proprietary e-co
 
 Leadership requested this analysis in Q2 2023 to understand how the COVID-19 pandemic impacted sales performance from 2019-2022. The period represents a critical inflection point for technology retailers, with dramatic shifts in consumer behavior, supply chain disruptions, and evolving work-from-home requirements.
 
-Understanding these performance patterns will inform strategic planning for 2024 priorities, including loyalty program evaluation, refund cost reduction initiatives, and international market expansion decisions. The insights from this analysis will be particularly valuable as we navigate the post-pandemic market normalization and prepare for potential future disruptions.
+Understanding these performance patterns will inform strategic priorities for 2024, including loyalty program evaluation, refund cost reduction initiatives, and international market expansion decisions. The insights from this analysis will be particularly valuable as we navigate the post-pandemic market normalization and prepare for potential future disruptions.
 
 Insights and recommendations are provided on the following key areas:
 
