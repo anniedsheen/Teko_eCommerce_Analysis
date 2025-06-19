@@ -14,23 +14,27 @@ The business operates on a direct-to-consumer model through its proprietary e-co
 
 Leadership requested this analysis in Q2 2023 to understand how the COVID-19 pandemic impacted sales performance from 2019-2022. The period represents a critical inflection point for technology retailers, with dramatic shifts in consumer behavior, supply chain disruptions, and evolving work-from-home requirements.
 
-Understanding these performance patterns will inform strategic planning for 2024 priorities, including loyalty program investment, marketing allocation, and potential product line expansion decisions. The insights from this analysis will be particularly valuable as we navigate the post-pandemic market normalization and prepare for potential future disruptions.
+Understanding these performance patterns will inform strategic planning for 2024 priorities, including loyalty program evaluation, refund cost reduction initiatives, and international market expansion decisions. The insights from this analysis will be particularly valuable as we navigate the post-pandemic market normalization and prepare for potential future disruptions.
 
 Insights and recommendations are provided on the following key areas:
 
 - **Revenue Trends and Growth Analysis:** Overall sales performance, monthly and yearly growth rates, and key inflection points
-- **Refund Impact Analysis:** Refund behavior across product categories, including refund rates, associated costs, and their effects on profitability
 - **Loyalty Program Performance:** Evaluation of the new loyalty program's impact on repeat purchases and revenue contribution
 - **Regional Performance Segementation** Sales performance across regions, focusing on differences in revenue, AOV, and customer behavior
-
+- **Refund Impact Analysis:** Refund behavior across product categories, including refund rates, associated costs, and their effects on profitability
 
 # Executive Summary
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Teko Electronics experienced explosive pandemic-driven growth peaking at $10M in 2020, but revenue has since declined 46% as market conditions normalized, highlighting the need for sustainable growth strategies beyond remote work trends. The loyalty program is counterproductive, with non-loyalty customers outperforming across all metrics, while APAC represents significant untapped growth potential with premium customer behavior. Quality challenges are eroding over $1M annually and require immediate attention to protect profitability as the company transitions to sustainable post-pandemic growth.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+### Key themes for leadership
+**1. Growth Strategy:** Pandemic boom was unsustainable, but core products remain reliable drivers worth priortizing
+
+**2. Resource Reallocation:** Loyalty program is underperforming, but APAC shows premium customer behavior worth scaling
+
+**3. Operational Efficiency:** High refund costs for the Macbook Air and Gaming Montior threaten margins and require investigation
 
 
 # Insights Deep Dive
@@ -38,7 +42,6 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 Overall sales performance, monthly and yearly growth rates, and key inflection points.
 
 ![image](https://github.com/user-attachments/assets/7e43c05e-5935-4fc9-ae87-dea0cd0fc37f)
-
 
 ![image](https://github.com/user-attachments/assets/a15e1f57-479f-460d-bd97-bab80f1d8eb1)
 
@@ -54,27 +57,12 @@ Overall sales performance, monthly and yearly growth rates, and key inflection p
 * **Revenue declined sharply from 2021-2022 with a 46% drop**, reaching an all-time low of $178K in October 2022, with the only exceoptions being slight seasonal holiday upticks in November and December, suggesting market normalization post-pandemic.
 
 
-### Refund Impact Analysis
-
-Refund behavior across product categories, including refund rates, associated costs, and their effects on profitability
-
-[Visualization specific to category 2]
-
-* **Refund rates spiked in mid-2022 and have remained elevated**, indicating potential quality or customer satisfaction issues.
-  
-* **Laptops show the highest refund rates**, with both Apple MacBooks and ThinkPads experiencing significantly more returns than other product categories.
-  
-* **Gaming monitors and MacBook Air drive the highest refund costs** due to their premium price points.
-  
-* **Refund costs are projected to match 2022 levels** based on current trends through the first half of 2023.
-
-
 ### Loyalty Program Performance
 Evaluation of the new loyalty program's impact on repeat purchases and revenue contribution.
 
 ![image](https://github.com/user-attachments/assets/35f6aecc-68eb-4f21-8d51-34db088dd931)
 
-![image](https://github.com/user-attachments/assets/74a788e0-aa73-4f54-9505-30be6a191866)
+![image](https://github.com/user-attachments/assets/4927c3a6-f5c9-4614-9118-5f8b66074676)
 
 
 * **Loyalty customer revenue continues to decline from its peak in Dec 2021**, generating less revenue than non-loyalty customers by the end of 2022.
@@ -103,21 +91,38 @@ Sales performance across regions, focusing on differences in revenue, AOV, and c
 
 * **LATAM underperformed across both metrics** with the lowest revenue and AOV, indicating potential market entry challenges or pricing misalignment
 
+
+### Refund Impact Analysis
+
+Refund behavior across product categories, including refund rates, associated costs, and their effects on profitability
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c6f7ddb7-4b98-4119-ba60-abcbbab59327" alt="Refund Table">
+</div>
+
+* **Refund rates spiked in H1 2022 and have remained elevated**, indicating potential quality or customer satisfaction issues
+
+* **Refund costs are projected to match 2022 levels** based on current trends through the first half of 2023
+  
+* **Laptops show the highest refund rates**, with both ThinkPads and Apple MacBooks experiencing significantly more returns than other product categories at 12% and 11% respectively
+  
+* **Gaming monitors and MacBook Air drive the highest refund costs** due to their premium price points, collectively reducing gross revenue by nearly $1.4M
+
   
 # Recommendations
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we would recommend teams to consider the following: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* **Focus marketing spend and inventory investment on our top three core products, the Gaming Monitor, Apple Airpods, and MacBook Air**. These products have proven to be reliable market drivers during both growth and decline periods.
+
+* **Evaluate Loyalty Program ROI and conduct customer interviews to evaluate what value, if any, we can offer to customers through this program**. Loyalty customers are generating less revenue and have lower AOV than non-loyalty customers, so it's important that this program is able to incentivize higher spending or encourage more repeat purchasing behavior.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
+* **Consider reallocating resources from the Loyalty Program to focus on APAC expansion initiatives**, targeting customer acquisition in a market where customers already demonstrate 7% higher spending patterns.
+    
+* **Identify root cause issues leading to continued evelated refund costs**, since this suggests a potential systematic issue. Refund rates spiked in H1 2022 and has remained elevated, putting us on track to match 2022 refund costs by the end of this year.
+
+* **Investigate potential issues with our laptop suppliers**, given that the refund rate for the MacBook Air and ThinkPad Laptops are 11-12% compared to 1-6% for other products.
+
 
 # Data Structure & Initial Checks
 
