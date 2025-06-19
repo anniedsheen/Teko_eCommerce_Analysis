@@ -27,14 +27,14 @@ Insights and recommendations are provided on the following key areas:
 
 ### Overview of Findings
 
-Teko Electronics experienced explosive pandemic-driven growth peaking at $10M in 2020, but revenue has since declined 46% as market conditions normalized, highlighting the need for sustainable growth strategies beyond remote work trends. The loyalty program is counterproductive, with non-loyalty customers outperforming across all metrics, while APAC represents significant untapped growth potential with premium customer behavior. Quality challenges are eroding over $1M annually and require immediate attention to protect profitability as the company transitions to sustainable post-pandemic growth.
+Teko Electronics experienced explosive pandemic-driven growth peaking at $10M in 2020, but revenue has since declined 46% as market conditions normalized, highlighting the need for sustainable growth strategies beyond remote work trends. The loyalty program is counterproductive, with non-loyalty customers outperforming across all metrics, while APAC represents significant untapped growth potential with premium customer behavior. Quality challenges are eroding over $1M annually and require immediate attention to protect profitability.
 
 ### Key themes for leadership
 **1. Growth Strategy:** Pandemic boom was unsustainable, but core products remain reliable drivers worth priortizing
 
 **2. Resource Reallocation:** Loyalty program is underperforming, but APAC shows premium customer behavior worth scaling
 
-**3. Operational Efficiency:** High refund costs for the Macbook Air and Gaming Montior threaten margins and require investigation
+**3. Operational Efficiency:** High refund costs for the Macbook Air and Gaming Monitor threaten margins and require investigation
 
 
 # Insights Deep Dive
@@ -111,11 +111,11 @@ Refund behavior across product categories, including refund rates, associated co
   
 # Recommendations
 
-Based on the insights and findings above, we would recommend teams to consider the following: 
+Based on the insights and findings above, I would recommend teams to consider the following: 
 
 * **Focus marketing spend and inventory investment on our top three core products, the Gaming Monitor, Apple Airpods, and MacBook Air**. These products have proven to be reliable market drivers during both growth and decline periods.
 
-* **Evaluate Loyalty Program ROI and conduct customer interviews to evaluate what value, if any, we can offer to customers through this program**. Loyalty customers are generating less revenue and have lower AOV than non-loyalty customers, so it's important that this program is able to incentivize higher spending or encourage more repeat purchasing behavior.
+* **Evaluate Loyalty Program ROI and conduct customer interviews to evaluate what value, if any, we're offering to customers through this program**. Loyalty customers are generating less revenue and have lower AOV than non-loyalty customers, so it's important that this program is able to incentivize higher spending or encourage more repeat purchasing behavior in order to provide value for our business.
   
 * **Consider reallocating resources from the Loyalty Program to focus on APAC expansion initiatives**, targeting customer acquisition in a market where customers already demonstrate 7% higher spending patterns.
     
