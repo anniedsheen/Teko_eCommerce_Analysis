@@ -79,8 +79,7 @@ Evaluation of the new loyalty program's impact on repeat purchases and revenue c
 ### Regional Performance Segmentation
 Sales performance across regions, focusing on differences in revenue, AOV, and customer behavior
 
-![image](https://github.com/user-attachments/assets/d2e96a52-4754-4f9d-ba41-0e5d4637d9de)
-
+![image](https://github.com/user-attachments/assets/8ea47d5a-a59c-42c4-8f14-1c04cab847b0)
 
 
 * **All regions experienced similar revenue patterns**, peaking during 2020-2021 COVID period before declining, indicating global market forces drove performance more than regional factors
@@ -97,7 +96,7 @@ Sales performance across regions, focusing on differences in revenue, AOV, and c
 Refund behavior across product categories, including refund rates, associated costs, and their effects on profitability
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/06fe5c94-0e35-4538-8cca-8758754ead6d" alt="Refund Table">
+  <img src="https://github.com/user-attachments/assets/ea06fcc3-3a45-44b3-9723-c56c814da392" alt="Refund Table">
 </div>
 
 * **Refund rates spiked in H1 2022 and have remained elevated**, indicating potential quality or customer satisfaction issues
