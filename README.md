@@ -85,7 +85,7 @@ Sales performance across regions, focusing on differences in revenue, AOV, and c
 
 * **All regions experienced similar revenue patterns**, peaking during 2020-2021 COVID period before declining, indicating global market forces drove performance more than regional factors
 
-* **North America dominated revenue generation** with over $14M in sales and making up 50.8% of market share, representing our strongets market position and customer base
+* **North America dominated revenue generation** with over $14M in sales and making up 50.8% of market share, representing our strongest market position and customer base
 
 * **APAC customers show the highest spending per order at $280 AOV** but generated the second-lowest total revenue, suggesting limited market reach despite premium customer behavior
 
